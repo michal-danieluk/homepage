@@ -1,7 +1,30 @@
 body {
-    background-color: #fefefe;
+    background-color: #c9c9c9;
 }
 
 h2 {
     color: #1460aa;
 }
+
+.section__main {
+    background-color: #424242 ;
+    color: aliceblue;
+display: block;
+max-width: 760px;
+vertical-align: top;
+
+}
+
+.article__main-box {
+    background-color: #5b3a5a;
+    display: inline-block;
+    max-width: 220px;
+    max-height: 300px;
+    overflow: hidden;
+    vertical-align: top;
+}
+
+.article__main-h2 {}
+
+.article__main-paragraf {}
+
