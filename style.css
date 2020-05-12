@@ -18,6 +18,11 @@ h2 {
   color: #1460aa;
 }
 
+nav {
+background-color: purple;
+text-size: 1.1rem;
+}
+
 main {
   align-items: center;
   padding: 5px;
@@ -26,18 +31,25 @@ main {
 .section__main {
     align-self: center;
   background-color: #c9c9c9;
-  color: aliceblue;
-  max-width: 75vw;
+  color: black;
+  max-width: 85vw;
   vertical-align: top;
   margin : auto;
   padding: 10px;
   text-align: center;
     }
 
+    .section__paragraf {
+	    text-align: center;
+	    text-decoration: underline;
+	    font-size: 1.3rem;
+	    font-family: monospace;
+    }
+
 .article__main-box {
-  background-color: #a0b9bf;
+  background-color: #999999;
   display: inline-block;
-  max-width: 290px;
+  max-width: 25vw;
   height: 300px;
   overflow: auto;
   vertical-align: top;
